@@ -1,2 +1,2 @@
-# LandingPage
+# CodeSoft
 Intership-Project
